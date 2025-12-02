@@ -1,0 +1,7 @@
+{
+  "name": "SmartShop AI",
+  "description": "A unified e-commerce checkout experience powered by Gemini AI for intelligent product search and seamless payments.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
